@@ -15,12 +15,12 @@ public class StudentInfo {
 
     public static void display() {
 
-    System.out.println("************************************************************");
-    System.out.println("*    Name:          Arik Barenboim  ||      Jeremy Soong   *");
-    System.out.println("*    Student ID:    300024372       ||      300016044      *");
-    System.out.println("*    Section:       C00             ||      C00            *");
-    System.out.println("*    Assignment:                Assignment 2               *");
-    System.out.println("************************************************************");
+    System.out.println("*********************************");
+    System.out.println("*    Name:       Jeremy Soong   *");
+    System.out.println("*    Student ID: 300016044      *");
+    System.out.println("*    Section:    C00            *");
+    System.out.println("*    Assignment: Assignment 2   *");
+    System.out.println("*********************************");
     System.out.println();
 
     }
